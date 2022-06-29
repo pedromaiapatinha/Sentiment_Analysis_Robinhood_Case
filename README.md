@@ -19,5 +19,10 @@ Analyse the impact from the Robinhood's decision of blocking the Buy option form
 ## Dashboard
 ![PowerBI Dashboard](https://user-images.githubusercontent.com/64651800/176485603-f1effe7a-871e-48db-afb5-37390c7b5fd6.jpg)
 
+## Technologies Used
+  * Jupyter Notebook
+  * Python
+  * Power BI
+
 ## Team
-[![Pedro Patinha](https://www.linkedin.com/in/pedromaiapatinha/)]
+[![Pedro Patinha]](https://www.linkedin.com/in/pedromaiapatinha/)
