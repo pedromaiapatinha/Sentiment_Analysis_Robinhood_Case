@@ -2,7 +2,7 @@
 
 ## Table of Content
   * [The Challenge](#The-Challenge)
-  * [Steps](#dteps)
+  * [Steps](#steps)
   * [Dashboard](#dashboard)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
