@@ -25,4 +25,4 @@ Analyse the impact from the Robinhood's decision of blocking the Buy option form
   * Power BI
 
 ## Team
-[![Pedro Patinha]](https://www.linkedin.com/in/pedromaiapatinha/)
+  * [[Pedro Patinha]](https://www.linkedin.com/in/pedromaiapatinha/)
