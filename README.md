@@ -23,7 +23,6 @@ Analyse the impact from the Robinhood's decision of blocking the Buy option form
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<img src="https://img.icons8.com/color/30/000000/linkedin.png"/> [Pedro Patinha](https://www.linkedin.com/in/pedromaiapatinha/)
 
 ## Team
-  * [[Pedro Patinha]](https://www.linkedin.com/in/pedromaiapatinha/)
+  * <img src="https://img.icons8.com/color/30/000000/linkedin.png"/> [Pedro Patinha](https://www.linkedin.com/in/pedromaiapatinha/)
